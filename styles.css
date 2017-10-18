@@ -1,0 +1,9 @@
+body{
+  background-color: white;
+  margin: 0px;
+}
+
+div.wrapper{
+  width: 100%;
+  max-width: 1000px;
+}
